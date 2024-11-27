@@ -1,6 +1,6 @@
-package ex03_more_arrays;
+package ex4_5_more_arrays;
 
-import ex4_5_product_description.Product;
+import ex4_4_product_description.Product;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

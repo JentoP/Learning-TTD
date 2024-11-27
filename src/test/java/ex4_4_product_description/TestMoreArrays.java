@@ -1,6 +1,6 @@
-package ex4_5_product_description;
+package ex4_4_product_description;
 
-import ex4_6.ArrayOfIntegers;
+import ex4_5_moreArrays.ArrayOfIntegers;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

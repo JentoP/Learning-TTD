@@ -1,4 +1,4 @@
-package ex4_5_product_description;
+package ex4_4_product_description;
 
 import java.util.Locale;
 
